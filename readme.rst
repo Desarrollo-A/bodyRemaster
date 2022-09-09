@@ -24,9 +24,9 @@ issues, as well as missing features.
 Installation
 ************
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
 This poject was developed with `codeigniter 3.1.11 <https://codeigniter.com/userguide3/installation/downloads.html>`_
+
+
 *******
 License
 *******
