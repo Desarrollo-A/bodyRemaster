@@ -24,8 +24,8 @@ issues, as well as missing features.
 Installation
 ************
 
-This poject was developed with `codeigniter 3.1.11 <https://codeigniter.com/userguide3/installation/downloads.html>`_
-
+This poject was developed with `codeigniter 3.1.11 <https://codeigniter.com/userguide3/installation/downloads.html>`_,
+You should install it and then pull the changes from the repository and replace them in the new codeigniter project.
 
 *******
 License
