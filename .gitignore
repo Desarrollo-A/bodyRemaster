@@ -1,0 +1,34 @@
+### .idea ###
+.idea
+.idea/*
+
+### VisualStudioCode ###
+.vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# omitir base en application
+application/cache/*
+application/config/*
+application/core/*
+application/helpers/*
+application/hooks/*
+application/language/*
+application/libraries/*
+application/logs/*
+application/vendor/*
+application/third_party/*
+
+# omitir archivos binarios
+assets/expediente/*
+assets/img/*
+assets/temporales/*
+
+# omitir plugs en static
+#omitimos todo core (no cambia)
+system/*
+user_guide/*
