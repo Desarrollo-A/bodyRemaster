@@ -10,6 +10,7 @@
   <!-- Google Material Icons -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@40,400,0,0" />
+  <link href="<?= base_url("assets/css/select2.min.css")?>" rel="stylesheet" />
   <!-- CSS Files -->
   <link id="pagestyle" href="<?=base_url()?>/assets/css/material-dashboard.css?v=3.0.4" rel="stylesheet" />
 </head>
